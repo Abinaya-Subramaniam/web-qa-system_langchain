@@ -11,3 +11,10 @@ An AI-powered system that extracts and answers questions from web content using 
 1. Clone repo:
    ```bash
    git clone https://github.com/Abinaya-Subramaniam/web-qa-system_langchain.git
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3. Create .env file with your API keys
+
