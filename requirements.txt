@@ -3,5 +3,4 @@ ipykernel
 python-dotenv
 langchain_community
 langchain_huggingface
-beautifulsoup4
 faiss-cpu
